@@ -13,9 +13,9 @@
 ---
 
 ## 👋 **Who am I?**
-- **Currently:** Doing Masters in Computer Science **UIUC**.
+- **Currently:** Recently completed Masters in Computer Science **UIUC**.
 - I like to **turn wild ideas into sleek web experiences** – with a sprinkle of AI magic.  
-- I speak multiple languages like **JavaScript, TypeScript, Python**.  
+- I speak multiple languages like **JavaScript, TypeScript, C++**.  
 
 ---
 

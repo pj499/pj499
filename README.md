@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=1000&color=C8D5B9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Prajakta!;Full-Stack+Developer+%26+AI+Engineer;I+Build+AI-Powered+Experiences" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=1000&color=C8D5B9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Prajakta!;Full-Stack+Developer;I+Build+AI-Powered+Experiences" alt="Typing Animation" />
 </p>
 
 <!-- Connect -->

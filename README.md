@@ -37,16 +37,7 @@ Crafted **snappy React UIs** and optimized API calls because… speed matters.
 </p>
 <sub>Also: **LLMs, RAG pipelines, 3D Web (Three.js)** and anything that blends tech + design.</sub>
 
----
 
-## 🏆 **Cool Stats**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pj499&theme=flat&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pj499&layout=compact&theme=graywhite&hide_border=true" height="165">
-</p>
 
 ---
 
